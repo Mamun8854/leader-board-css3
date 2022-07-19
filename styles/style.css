@@ -62,7 +62,6 @@ header{
 .header-menu{
     display: flex;
     align-items: center;
-    padding-right: ;
 }
 .menu a{
     text-decoration: none;
